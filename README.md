@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Askari</h1>
+<h1 align="center">Hi 👋, I'm Ali (Asgari) Askari </h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donallito" alt="donallito" /></a> </p>
 
